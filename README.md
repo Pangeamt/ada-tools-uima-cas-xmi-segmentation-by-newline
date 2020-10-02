@@ -10,5 +10,4 @@ Install the last version of dkpro-cassis:
 ## Usage
 1) Put a UIMA CAS XMI file in the 001_source directory
 2) run main.py
-- 
 
